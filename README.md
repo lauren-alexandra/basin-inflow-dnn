@@ -1,4 +1,4 @@
-Weather Informed Reservoir Operation
+Basin Inflow LSTM: Forecasting Regional Water Quantity for Reservoir Operation
 =====
 
 Data
@@ -21,8 +21,8 @@ Run locally
 ### Download/Clone Git Repository
 
     $cd <replace with desired location of project folder>
-    $git clone https://github.com/lauren-alexandra/weather-informed-reservoir-operation.git
-    $cd weather-informed-reservoir-operation
+    $git clone https://github.com/lauren-alexandra/basin-inflow-lstm.git
+    $cd basin-inflow-lstm
 
 ### Create Environment
 
