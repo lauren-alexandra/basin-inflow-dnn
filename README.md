@@ -1,4 +1,4 @@
-Basin Inflow LSTM: Forecasting Regional Water Quantity for Reservoir Operation
+Basin Inflow LSTM: Forecasting Regional Water Quantity
 =====
 
 Overview
