@@ -10,11 +10,33 @@ Background
 ----
 The Department of Interior’s Bureau of Reclamation (BOR) employs river basin observations including streamflow, snowpack, temperature, and precipitation in addition to projected water demand to operate reservoirs in California’s Central Valley Project. Water managers must optimize storage during dry periods while allocating space for flood control. In 2019, BOR approved a water control manual for the Folsom Reservoir north of Sacramento that relies on weather forecasts to make more accurate release decisions and engage the auxiliary spillway for flood management (BOR, 2021). 
 
-Sacramento and surrounding municipalities exist on a floodplain. The area receives most of its water from precipitation in the Sierra Nevada during a short wet period consisting of five to six Pacific storms on average, with high year-to-year variability (Ingram & Malamud-Roam, 2015). A difference of one to two major storms can ensure a normal versus a dry water year. Water management in the state has proven challenging since its founding. This challenge was evident in the early years of the state, when in late 1861 and the beginning of 1862 unprecedented snowfall followed by a series of warm storms drenched the western Sierra Nevada with four times its annual average rainfall, swelling the American River Basin, eliminating mining settlements, displacing communities, and submerging Sacramento under ten feet of water (Ingram & Malamud-Roam, 2015). The extensive destruction of the 1861-1862 floods in Sacramento and across the state, led the city to pursue a project of raising the district by ten to fifteen feet shortly after the flooding. Notably, on January 11, 1862 the *Nevada City Democrat* reported that indigenous people left the area a week before the floods, recognizing the weather pattern of atmospheric river storms. 
+#### History 
+
+Sacramento and surrounding municipalities exist on a floodplain. The area receives most of its water from precipitation in the Sierra Nevada during a short wet period consisting of five to six Pacific storms on average, with high year-to-year variability (Ingram & Malamud-Roam, 2015). A difference of one to two major storms can ensure a normal versus a dry water year. Water management in the state has proven challenging since its founding. This challenge was evident in the early years of the state, when in late 1861 and the beginning of 1862 unprecedented snowfall followed by a series of warm storms drenched the western Sierra Nevada with four times its annual average rainfall, swelling the American River Basin, eliminating Gold Rush mining camps (see Figure 1), displacing communities, and submerging Sacramento under ten feet of water (Ingram & Malamud-Roam, 2015). The extensive destruction of the 1861-1862 floods in Sacramento (see Figure 2) and across the state, led the city to pursue a project of raising the district by ten to fifteen feet shortly after the flooding. Notably, on January 11, 1862 the *Nevada City Democrat* reported that the Nisenan left the area a week before the floods, recognizing the weather pattern of atmospheric river storms. 
+
+**Figure 1**
+
+***Mining Camps on the American River, 1849***
+
+<img width="1167" alt="1849-mining-camps-on-the-american-river" src="https://github.com/lauren-alexandra/basin-inflow-lstm/assets/56773938/bf99dac3-55a3-4fd7-9d85-e6d208b21871">
+
+Note. Many of the camps above Beal's Bar on the North Fork are beneath the Folsom Reservoir. Adapted from "The Early Years", by Sacramento Public Library Authority, *Images of America: Lower American River*, (p. 11-38), 2021, Arcadia Publishing.
+
+**Figure 2**
+
+***Sacramento, December 1861***
+
+<img width="734" alt="1861-sacramento-flooded" src="https://github.com/lauren-alexandra/basin-inflow-lstm/assets/56773938/cf959be5-9321-44a1-94f1-2a1d73c90dca">
+
+Note. From "The Untamed River", by Sacramento Public Library Authority, *Images of America: Lower American River*, (p. 109-127), 2021, Arcadia Publishing. 
+
+#### Dam 
 
 Folsom Reservoir (1956) was constructed by the U.S. Army Corps of Engineers for the purpose of flood damage reduction. Another area within California State Parks’ American River District, the Auburn State Recreation Area, was also evaluated as a potential location for a dam that would have regulated downstream flow into the Folsom Reservoir. However, construction of the dam was frequently impeded for decades by concerns around the dam’s design, cost, and purpose. The fight over the proposed dam was acutely chronicled in Auburn State Recreation Area park ranger Jordan Fisher Smith’s (2006) memoir. In 1991, the district’s superintendent advocated for the concept of a “dry dam” which would have flooded the American River canyons after a storm. The following year the U.S. Army Corps of Engineers as well as a flood control agency formed by local governments supported a flood-control Auburn dam. Yet the quickly growing populations of nearby towns in the Fourth Congressional District exerted an opposing pressure on the district’s representative John Doolittle, and by 1995 he committed to sinking any proposal which did not generate power and store water for his district’s population. Finally, in 2008 the fights concluded when the State Water Resources Control Board revoked BOR’s federal water rights, ending the stalled project. Today decisions balancing flood events in the American River Basin and both local and state water demand must be handled by the Folsom Reservoir and Dam. 
 
-BOR operation in the American River Basin must adapt not only to the region’s typical variability, but also to shifts in timing and quantity of precipitation in a warming climate. The state’s water year now experiences earlier snowmelt with lower streamflows in the summer when demand is high (East & Grant, 2023). Positioning the reservoir to hold capacity for floods in the wet season while storing requisite supply for summer months will necessitate close observation of upstream flow variation (Naz et al., 2018) and strategic changes in operation policies downstream. Moreover, during the past 80 years there has been a greater magnitude of wet extremes during the winter season (Zamora-Reyes et al., 2021). Atmospheric river storms are projected to be more extreme under climate change with a significant decrease in snow at higher elevations in the Sierra Nevada (Huang et al., 2020), generating sizable runoff and obstacles for flood management. Climate science must be incorporated into daily operation to handle the growing variability of the state’s hydroclimate.
+#### Adaptation 
+
+BOR operation in the American River Basin must withstand not only the region’s typical variability, but also shifts in timing and quantity of precipitation in a warming climate. The state’s water year now experiences earlier snowmelt with lower streamflows in the summer when demand is high (East & Grant, 2023). Positioning the reservoir to hold capacity for floods in the wet season while storing requisite supply for summer months will necessitate close observation of upstream flow variation (Naz et al., 2018) and strategic changes in operation policies downstream. Moreover, during the past 80 years there has been a greater magnitude of wet extremes during the winter season (Zamora-Reyes et al., 2021). Atmospheric river storms are projected to be more extreme under climate change with a significant decrease in snow at higher elevations in the Sierra Nevada (Huang et al., 2020), generating sizable runoff and obstacles for flood management. Climate science must be incorporated into daily operation to handle the growing variability of the state’s hydroclimate.
 
 References
 
@@ -29,6 +51,10 @@ Huang, X., Stevenson, S., & Hall, A. D. (2020). Future warming and intensificati
 Ingram, B. L., & Malamud-Roam, F. (2015). *The west without water: What past floods, droughts, and other climatic clues tell us about tomorrow*. University of California Press. 
 
 Naz, B. S., Kao, S., Ashfaq, M., Gao, H., Rastogi, D., & Gangrade, S. (2018). Effects of climate change on streamflow extremes and implications for reservoir inflow in the United States. *Journal of Hydrology, 566*, 359-370. https://doi.org/10.1016/j.jhydrol.2017.11.027 
+
+Sacramento Public Library Authority. (2021). The early years. *Images of America: Lower American River* (p. 11-38). Arcadia Publishing.
+
+Sacramento Public Library Authority. (2021). The untamed river. *Images of America: Lower American River* (p. 109-127). Arcadia Publishing.
 
 Smith, J. F. (2006). *Nature noir: A park ranger’s patrol in the Sierra*. Mariner Books. 
 
