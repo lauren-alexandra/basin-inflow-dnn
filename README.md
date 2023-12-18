@@ -22,7 +22,7 @@ The extensive destruction of the 1861-1862 floods in Sacramento and across the s
 
 <img width="1167" alt="1849-mining-camps-on-the-american-river" src="https://github.com/lauren-alexandra/basin-inflow-lstm/assets/56773938/bf99dac3-55a3-4fd7-9d85-e6d208b21871">
 
-Note. Many of the mining camps above Beal's Bar on the North Fork are beneath the Folsom Reservoir. Adapted from "The Early Years", by Sacramento Public Library Authority, *Images of America: Lower American River*, (p. 11-38), 2021, Arcadia Publishing.
+Note. Many of the mining camps above Beal's Bar on the North Fork are beneath the Folsom Reservoir. Adapted from "The Early Years", by Sacramento Public Library Authority, *Images of America: Lower American River*, (pp. 11-38), 2021, Arcadia Publishing.
 
 **Figure 2**
 
@@ -30,7 +30,7 @@ Note. Many of the mining camps above Beal's Bar on the North Fork are beneath th
 
 <img width="734" alt="1861-sacramento-flooded" src="https://github.com/lauren-alexandra/basin-inflow-lstm/assets/56773938/cf959be5-9321-44a1-94f1-2a1d73c90dca">
 
-Note. From "The Untamed River", by Sacramento Public Library Authority, *Images of America: Lower American River*, (p. 109-127), 2021, Arcadia Publishing. 
+Note. From "The Untamed River", by Sacramento Public Library Authority, *Images of America: Lower American River*, (pp. 109-127), 2021, Arcadia Publishing. 
 
 #### Dam 
 
@@ -54,9 +54,9 @@ Ingram, B. L., & Malamud-Roam, F. (2015). *The west without water: What past flo
 
 Naz, B. S., Kao, S., Ashfaq, M., Gao, H., Rastogi, D., & Gangrade, S. (2018). Effects of climate change on streamflow extremes and implications for reservoir inflow in the United States. *Journal of Hydrology, 566*, 359-370. https://doi.org/10.1016/j.jhydrol.2017.11.027 
 
-Sacramento Public Library Authority. (2021). The early years. *Images of America: Lower American River* (p. 11-38). Arcadia Publishing.
+Sacramento Public Library Authority. (2021). The early years. *Images of America: Lower American River* (pp. 11-38). Arcadia Publishing.
 
-Sacramento Public Library Authority. (2021). The untamed river. *Images of America: Lower American River* (p. 109-127). Arcadia Publishing.
+Sacramento Public Library Authority. (2021). The untamed river. *Images of America: Lower American River* (pp. 109-127). Arcadia Publishing.
 
 Smith, J. F. (2006). *Nature noir: A park ranger’s patrol in the Sierra*. Mariner Books. 
 
