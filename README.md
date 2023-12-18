@@ -32,7 +32,7 @@ Note. Many of the mining camps above Beal's Bar on the North Fork are beneath th
 
 Note. From "The Untamed River", by Sacramento Public Library Authority, *Images of America: Lower American River*, (pp. 109-127), 2021, Arcadia Publishing. 
 
-#### Dam 
+#### Reservoir 
 
 Folsom Reservoir (1956) was constructed by the U.S. Army Corps of Engineers for the purpose of flood damage reduction. Another area within California State Parks’ American River District, the Auburn State Recreation Area, was also evaluated as a potential location for a dam that would have regulated downstream flow into the Folsom Reservoir. However, construction of the dam was frequently impeded for decades by concerns around the dam’s design, cost, and purpose. The fight over the proposed dam was acutely chronicled in Auburn State Recreation Area park ranger Jordan Fisher Smith’s (2006) memoir. In 1991, the district’s superintendent advocated for the concept of a “dry dam” which would have flooded the American River canyons after a storm. The following year the U.S. Army Corps of Engineers as well as a flood control agency formed by local governments supported a flood-control Auburn dam. Yet the quickly growing populations of nearby towns in the Fourth Congressional District exerted an opposing pressure on the district’s representative John Doolittle, and by 1995 he committed to sinking any proposal which did not generate power and store water for his district’s population. Finally, in 2008 the fights concluded when the State Water Resources Control Board revoked BOR’s federal water rights, ending the stalled project. Today decisions balancing flood events in the American River Basin and both local and state water demand must be handled by the Folsom Reservoir and Dam. 
 
