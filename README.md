@@ -22,7 +22,7 @@ The extensive destruction of the 1861-1862 floods in Sacramento and across the s
 
 <img width="1167" alt="1849-mining-camps-on-the-american-river" src="https://github.com/lauren-alexandra/basin-inflow-lstm/assets/56773938/bf99dac3-55a3-4fd7-9d85-e6d208b21871">
 
-Note. Many of the mining camps above Beal's Bar on the North Fork are beneath the Folsom Reservoir. Adapted from "The Early Years", by Sacramento Public Library Authority, *Images of America: Lower American River*, (pp. 11-38), 2021, Arcadia Publishing.
+*Note*. Many of the mining camps above Beal's Bar on the North Fork are beneath the Folsom Reservoir. Adapted from "The Early Years", by Sacramento Public Library Authority, *Images of America: Lower American River*, (pp. 11-38), 2021, Arcadia Publishing.
 
 **Figure 2**
 
@@ -30,11 +30,19 @@ Note. Many of the mining camps above Beal's Bar on the North Fork are beneath th
 
 <img width="734" alt="1861-sacramento-flooded" src="https://github.com/lauren-alexandra/basin-inflow-lstm/assets/56773938/cf959be5-9321-44a1-94f1-2a1d73c90dca">
 
-Note. From "The Untamed River", by Sacramento Public Library Authority, *Images of America: Lower American River*, (pp. 109-127), 2021, Arcadia Publishing. 
+*Note*. From "The Untamed River", by Sacramento Public Library Authority, *Images of America: Lower American River*, (pp. 109-127), 2021, Arcadia Publishing. 
 
 #### Reservoir 
 
-Folsom Reservoir (1956) was constructed by the U.S. Army Corps of Engineers for the purpose of flood damage reduction. Another area within California State Parks’ American River District, the Auburn State Recreation Area, was also evaluated as a potential location for a dam that would have regulated downstream flow into the Folsom Reservoir. However, construction of the dam was frequently impeded for decades by concerns around the dam’s design, cost, and purpose. The fight over the proposed dam was acutely chronicled in Auburn State Recreation Area park ranger Jordan Fisher Smith’s (2006) memoir. In 1991, the district’s superintendent advocated for the concept of a “dry dam” which would have flooded the American River canyons after a storm. The following year the U.S. Army Corps of Engineers as well as a flood control agency formed by local governments supported a flood-control Auburn dam. Yet the quickly growing populations of nearby towns in the Fourth Congressional District exerted an opposing pressure on the district’s representative John Doolittle, and by 1995 he committed to sinking any proposal which did not generate power and store water for his district’s population. Finally, in 2008 the fights concluded when the State Water Resources Control Board revoked BOR’s federal water rights, ending the stalled project. Today decisions balancing flood events in the American River Basin and both local and state water demand must be handled by the Folsom Reservoir and Dam. 
+Folsom Reservoir (1956) was constructed by the U.S. Army Corps of Engineers for the purpose of flood damage reduction. Another area within California State Parks’ American River District, the Auburn State Recreation Area, was also evaluated as a potential location for a dam that would have regulated downstream flow into the Folsom Reservoir. However, construction of the dam was frequently impeded for decades by concerns around the dam’s design, cost, and purpose. The fight over the proposed dam was acutely chronicled in Auburn State Recreation Area park ranger Jordan Fisher Smith’s (2006) memoir. In 1991, the district’s superintendent advocated for the concept of a “dry dam” which would have flooded the American River canyons after a storm. The following year the U.S. Army Corps of Engineers as well as a flood control agency formed by local governments supported a flood-control Auburn dam. Yet the quickly growing populations of nearby towns in the Fourth Congressional District exerted an opposing pressure on the district’s representative John Doolittle, and by 1995 he committed to sinking any proposal which did not generate power and store water for his district’s population. Finally, in 2008 the fights concluded when the State Water Resources Control Board revoked BOR’s federal water rights, ending the stalled project. Today decisions balancing flood events in the American River Basin and both local and state water demand must be handled by the Folsom Reservoir and Dam (see Figure 3).
+
+**Figure 3**
+
+***Folsom Dam, 2023***
+
+![folsom-dam-2023](https://github.com/lauren-alexandra/basin-inflow-lstm/assets/56773938/4f7495be-8d0b-45c8-af9a-5c2836c1b160)
+
+*Note*. Picture of Folsom Dam as viewed from Beal’s Point in August 2023.
 
 #### Adaptation 
 
