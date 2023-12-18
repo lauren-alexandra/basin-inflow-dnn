@@ -12,7 +12,7 @@ The Department of Interior’s Bureau of Reclamation (BOR) employs river basin o
 
 #### History 
 
-Sacramento and surrounding municipalities exist on a floodplain. The area receives most of its water from precipitation in the Sierra Nevada during a short wet period consisting of five to six Pacific storms on average, with high year-to-year variability (Ingram & Malamud-Roam, 2015). A difference of one to two major storms can ensure a normal versus a dry water year. Water management in the state has proven challenging since its founding. This challenge was evident in the early years of the state, when in late 1861 and the beginning of 1862 unprecedented snowfall followed by a series of warm storms drenched the western Sierra Nevada with four times its annual average rainfall, swelling the American River Basin, eliminating Gold Rush mining camps (see Figure 1), displacing communities, and submerging Sacramento under ten feet of water (Ingram & Malamud-Roam, 2015). The extensive destruction of the 1861-1862 floods in Sacramento (see Figure 2) and across the state, led the city to pursue a project of raising the district by ten to fifteen feet shortly after the flooding. Notably, on January 11, 1862 the *Nevada City Democrat* reported that the Nisenan left the area a week before the floods, recognizing the weather pattern of atmospheric river storms. 
+Sacramento and surrounding municipalities exist on a floodplain. The area receives most of its water from precipitation in the Sierra Nevada during a short wet period consisting of five to six Pacific storms on average, with high year-to-year variability (Ingram & Malamud-Roam, 2015). A difference of one to two major storms can ensure a normal versus a dry water year. Water management in the state has proven challenging since its founding. This challenge was evident in the early years of the state, when in late 1861 and the beginning of 1862 unprecedented snowfall followed by a series of warm storms drenched the western Sierra Nevada with four times its annual average rainfall, swelling the American River Basin, eliminating Gold Rush mining camps (see Figure 1), displacing communities, and submerging Sacramento under ten feet of water (Ingram & Malamud-Roam, 2015). The extensive destruction of the 1861-1862 floods in Sacramento (see Figure 2) and across the state, led the city to pursue a project of raising the district by ten to fifteen feet shortly after the flooding. Notably, on January 11, 1862 the *Nevada City Democrat* reported that the Nisenan population left the area a week before the floods, recognizing the weather pattern of atmospheric river storms. 
 
 **Figure 1**
 
@@ -20,7 +20,7 @@ Sacramento and surrounding municipalities exist on a floodplain. The area receiv
 
 <img width="1167" alt="1849-mining-camps-on-the-american-river" src="https://github.com/lauren-alexandra/basin-inflow-lstm/assets/56773938/bf99dac3-55a3-4fd7-9d85-e6d208b21871">
 
-Note. Many of the camps above Beal's Bar on the North Fork are beneath the Folsom Reservoir. Adapted from "The Early Years", by Sacramento Public Library Authority, *Images of America: Lower American River*, (p. 11-38), 2021, Arcadia Publishing.
+Note. Many of the mining camps above Beal's Bar on the North Fork are beneath the Folsom Reservoir. Adapted from "The Early Years", by Sacramento Public Library Authority, *Images of America: Lower American River*, (p. 11-38), 2021, Arcadia Publishing.
 
 **Figure 2**
 
