@@ -10,11 +10,15 @@ Background
 ----
 The Department of Interior’s Bureau of Reclamation (BOR) employs river basin observations including streamflow, snowpack, temperature, and precipitation in addition to projected water demand to operate reservoirs in California’s Central Valley Project. Water managers must optimize storage during dry periods while allocating space for flood control. In 2019, BOR approved a water control manual for the Folsom Reservoir north of Sacramento that relies on weather forecasts to make more accurate release decisions and engage the auxiliary spillway for flood management (BOR, 2021). 
 
-#### History 
+### History 
 
-Sacramento and surrounding municipalities exist on a floodplain. The area receives most of its water from precipitation in the Sierra Nevada during a short wet period consisting of five to six Pacific storms on average, with high year-to-year variability (Ingram & Malamud-Roam, 2015). A difference of one to two major storms can ensure a normal versus a dry water year. Water management in the state has proven challenging since its founding. This challenge was evident in the early years of the state, when in late 1861 and the beginning of 1862 unprecedented snowfall followed by a series of warm storms drenched the western Sierra Nevada with four times its annual average rainfall, swelling the American River Basin, eliminating Gold Rush mining camps (see Figure 1), displacing communities, and submerging Sacramento under ten feet of water (Ingram & Malamud-Roam, 2015). Notably, on January 11, 1862 the *Nevada City Democrat* reported that the Nisenan population left the area a week before the floods, recognizing the weather pattern of atmospheric river storms. 
+Sacramento and surrounding municipalities exist on a floodplain. The area receives most of its water from precipitation in the Sierra Nevada during a short wet period consisting of five to six Pacific storms on average, with high year-to-year variability (Ingram & Malamud-Roam, 2015). A difference of one to two major storms can ensure a normal versus a dry water year. Water management in the state has proven challenging since its founding. This challenge was evident in the early years of the state, when in late 1861 and the beginning of 1862 unprecedented snowfall followed by a series of warm storms drenched the western Sierra Nevada with four times its annual average rainfall, swelling the American River Basin, eliminating Gold Rush mining settlements (see Figure 1), displacing communities, and submerging Sacramento under ten feet of water (Ingram & Malamud-Roam, 2015). Notably, on January 11, 1862 the *Nevada City Democrat* reported that Indigenous residents left the area a week before the floods, recognizing the weather pattern of atmospheric river storms. 
 
 The extensive destruction of the 1861-1862 floods in Sacramento and across the state, led the city to pursue a project of raising the district by ten to fifteen feet shortly after the flooding. During the decade that followed, the American River’s confluence with the Sacramento River was located upstream. The Natoma Water and Mining Company carried out the construction of a dual-purpose dam about a mile and a half above Folsom on the American River to generate hydroelectric power and capture logs drifting downstream from the Sierra (Sacramento Public Library Authority, 2021, pp. 11-38). In 1868, California agreed to grant the company with the labor of imprisoned people in exchange for acreage for what would become the state’s second-oldest prison. By 1893 Folsom Dam was finished, and in 1895 the newly built Folsom Powerhouse allowed Sacramento to emerge as one of the leading cities in the country using commercial hydroelectric power.
+
+#### Legacy of the Gold Rush
+
+The discovery of gold by American and Indigenous workers in the American River during January 1848 commenced a siege of the region which entailed mining practices that would corrode river quality, with silt clogging streams and halting annual salmon runs (Akins & Bauer Jr., 2021), and pervasive efforts to transform the river through the shoring of levees, dredging, the separation of the river from sloughs, and years of damming, resulting in the removal of sediment-induced turbidity that sheltered salmon from predators along with the aquatic bugs, phytoplankton, and zooplankton supporting them (Arax, 2020). Furthermore, between 1848 and 1860 California and the federal government legalized and funded the disenfranchisement, enslavement, ethnic cleansing, and genocide of Indigenous People throughout the violent colonization of the Gold Rush era, declining the state population of Indigenous People from 150,000 to 30,000 people (Akins & Bauer Jr., 2021). California Governor Gavin Newsom (2019) issued an apology on behalf of the state for its historical mistreatment, violence, and neglect, and established the Truth and Healing Council to provide Indigenous People a platform to correct the historical record and begin the collaborative healing process. 
 
 **Figure 1**
 
@@ -32,7 +36,7 @@ The extensive destruction of the 1861-1862 floods in Sacramento and across the s
 
 *Note*. From "The Untamed River", by Sacramento Public Library Authority, *Images of America: Lower American River*, (pp. 109-127), 2021, Arcadia Publishing. 
 
-#### Reservoir 
+### Reservoir 
 
 Folsom Reservoir (1956) was constructed by the U.S. Army Corps of Engineers for the purpose of flood damage reduction with a timely completion. The winter of 1955-1956 brought Pacific and Arctic storms which displaced over fifty thousand Californians and flooded hundreds of thousands of acres of farmland; the Folsom Dam was credited with preventing the inundation of Sacramento (Arax, 2020). Another area within California State Parks’ American River District, the Auburn State Recreation Area, was also evaluated as a potential location for a dam that would have regulated downstream flow into the Folsom Reservoir. However, construction of the dam was frequently impeded for decades by concerns around the dam’s design, cost, and purpose. The fight over the proposed dam was acutely chronicled in Auburn State Recreation Area park ranger Jordan Fisher Smith’s (2006) memoir. In 1991, the district’s superintendent advocated for the concept of a “dry dam” which would have flooded the American River canyons after a storm. The following year the U.S. Army Corps of Engineers as well as a flood control agency formed by local governments supported a flood-control Auburn dam. Yet the quickly growing populations of nearby towns in the Fourth Congressional District exerted an opposing pressure on the district’s representative John Doolittle, and by 1995 he committed to sinking any proposal which did not generate power and store water for his district’s population. Finally, in 2008 the fights concluded when the State Water Resources Control Board revoked BOR’s federal water rights, ending the stalled project. Today decisions balancing flood events in the American River Basin and both local and state water demand must be handled by the Folsom Reservoir and Dam (see Figure 3).
 
@@ -44,11 +48,13 @@ Folsom Reservoir (1956) was constructed by the U.S. Army Corps of Engineers for 
 
 *Note*. Picture of Folsom Dam as viewed from Beal’s Point in August 2023.
 
-#### Adaptation 
+### Adaptation 
 
 BOR operation in the American River Basin must withstand not only the region’s typical variability, but also shifts in timing and quantity of precipitation in a warming climate. The state’s water year now experiences earlier snowmelt with lower streamflows in the summer when demand is high (East & Grant, 2023). Positioning the reservoir to hold capacity for floods in the wet season while storing requisite supply for summer months will necessitate close observation of upstream flow variation (Naz et al., 2018) and strategic changes in operation policies downstream. Moreover, during the past 80 years there has been a greater magnitude of wet extremes during the winter season (Zamora-Reyes et al., 2021). Atmospheric river storms are projected to be more extreme under climate change with a significant decrease in snow at higher elevations in the Sierra Nevada (Huang et al., 2020), generating sizable runoff and obstacles for flood management. Climate science must be incorporated into daily operation to handle the growing variability of the state’s hydroclimate.
 
-References
+#### References
+
+Akins, D. B., & Bauer Jr., W. J. (2021). *We are the land: A history of Native California*. University of California Press. 
 
 Arax, M. (2020). *The dreamt land: Chasing water and dust across California*. Vintage Books.
 
@@ -69,6 +75,8 @@ Sacramento Public Library Authority. (2021). The early years. *Images of America
 Sacramento Public Library Authority. (2021). The untamed river. *Images of America: Lower American River* (pp. 109-127). Arcadia Publishing.
 
 Smith, J. F. (2006). *Nature noir: A park ranger’s patrol in the Sierra*. Mariner Books. 
+
+State of California. (2019, June 18). *Governor Newsom issues apology to Native Americans for State’s historical wrongdoings, establishes Truth and Healing Council.* https://www.gov.ca.gov/2019/06/18/governor-newsom-issues-apology-to-native-americans-for-states-historical-wrongdoings-establishes-truth-and-healing-council
 
 Zamora-Reyes, D., Black, B., & Trouet, V. (2021). Enhanced winter, spring, and summer hydroclimate variability across California from 1940 to 2019. *International Journal of Climatology, 42*(9). https://doi.org/10.1002/joc.7513 
 
