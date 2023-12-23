@@ -6,6 +6,11 @@ Overview
 Basin Inflow LSTM is an implementation of a long short-term memory model for forecasting reservoir inflow in the American River Basin located in the Sacramento, California region. The proposal model is composed of stacked LSTM layers, with regularization applied to both (L2, dropout, and recurrent dropout), followed by a densely connected layer. Model application and evaluation uses river basin data with temporal coverage from 2008-2022. Across the watershed and along forks of the river, daily precipitation, temperature, snow water content and depth, and river discharge and stage are employed to predict local reservoir inflow. Data was pre-processed with a 30-day exponential moving average to give recent weather events more weight in the forecast, normalized, and made stationary for training. 14 years of data were separated into three sets: training set (2008-2017), validation set (2018–2020), and test set (2020-2022). The model achieves a lower MAE score (0.036) in inflow prediction than the baseline model. 
 
 
+Land Acknowledgement
+----
+The land currently occupied by the Folsom Reservoir is part of the unceded territory and traditional home of the Nisenan people. In spite of centuries of genocide and occupation, the sovereign Nisenan people persist as caretakers of the Sacramento Valley. The Nevada City Rancheria was once a federally recognized reservation of the Nisenan people (Nevada City Rancheria, n.d.). By executive order (1913) President Woodrow Wilson created the rancheria from a land allotment (1887) acquired by Chief Charlie Cully. However, in 1958 Congress passed the California Rancheria Termination Act which ceased the federal recognition of 41 tribes including Nevada City Rancheria. Most rancherias have been restored, but Nevada City Rancheria is still trying to restore their federal status. Through financial and community support the California Heritage: Indigenous Research Project (CHIRP), a nonprofit organization led by the Nevada City Rancheria Tribal Council, works to mimic the federal Indigenous programs designed to support health, education, housing, and economic stability in the absence of federal recognition, while advocating for its restoration (CHIRP, n.d.). 
+
+
 Background
 ----
 The Department of Interior’s Bureau of Reclamation (BOR) employs river basin observations including streamflow, snowpack, temperature, and precipitation in addition to projected water demand to operate reservoirs in California’s Central Valley Project. Water managers must optimize storage during dry periods while allocating space for flood control. In 2019, BOR approved a water control manual for the Folsom Reservoir north of Sacramento that relies on weather forecasts to make more accurate release decisions and engage the auxiliary spillway for flood management (BOR, 2021). 
@@ -72,6 +77,8 @@ Bureau of Reclamation. (n.d.). *Folsom Dam joint federal project*. https://www.u
 
 Bureau of Reclamation. (2021). *Water reliability in the west - 2021 SECURE Water Act report*. https://www.usbr.gov/climate/secure/docs/2021secure/2021SECUREReport.pdf
 
+California Heritage: Indigenous Research Project. (n.d.). *Mission: To preserve, protect and perpetuate Nisenan culture*. https://chirpca.org
+
 East, A. E., & Grant, G. E. (2023). A watershed moment for western U.S. dams. *Water Resources Research, 59*(10). https://doi.org/10.1029/2023WR035646 
 
 Huang, X., Stevenson, S., & Hall, A. D. (2020). Future warming and intensification of precipitation extremes: A “double whammy” leading to increasing flood risk in California. *Geophysical Research Letters, 47*(16), 1-9. https://doi.org/10.1029/2020GL088679 
@@ -81,6 +88,8 @@ Ingram, B. L., & Malamud-Roam, F. (2015). *The west without water: What past flo
 Mount, J., Grenier, L., Hanak, E., Peterson, C., Bardeen, S., Cole, S., Gartrell, G., Gray, B., Morales, Z. J., & Sencan, G. (2023). *Priorities for California’s water: Stewarding the wet years*. Public Policy Institute of California. https://www.ppic.org/publication/priorities-for-californias-water
 
 Naz, B. S., Kao, S., Ashfaq, M., Gao, H., Rastogi, D., & Gangrade, S. (2018). Effects of climate change on streamflow extremes and implications for reservoir inflow in the United States. *Journal of Hydrology, 566*, 359-370. https://doi.org/10.1016/j.jhydrol.2017.11.027 
+
+Nevada City Rancheria. (n.d.). *Nevada City Rancheria*. https://www.nevadacityrancheria.org
 
 Sacramento Public Library Authority. (2021). The early years. *Images of America: Lower American River* (pp. 11-38). Arcadia Publishing.
 
