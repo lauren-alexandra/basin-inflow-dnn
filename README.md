@@ -68,7 +68,17 @@ Over the past 80 years there has been a greater magnitude of wet extremes during
 2. Flooding often occurs disproportionately in low-income and rural communities. Federal, state, and local agencies must consider equity in all aspects of wet-year planning. Additionally, recharge programs can be implemented to improve community drinking water quality.
 3. An infrastructure investment program should be created to adapt to climate change, with an emphasis on aquifer restoration, flood defenses, and nature-based solutions. 
 4. Expanded floodways and seasonal wetlands can be leveraged to contend with ecosystem issues, flood events, and water supply concerns. 
-5. Agencies, particularly the State Water Board, the California Department of Water Resources, and the California Department of Fish and Wildlife should produce a wet-year permit management plan that directs actions in high-flow events. 
+5. Agencies, particularly the State Water Board, the California Department of Water Resources, and the California Department of Fish and Wildlife (CDFW) should produce a wet-year permit management plan that directs actions in high-flow events. 
+
+Preparation for annual variability of both wetter and drier years should be thoughtfully implemented from the perspective of building long-term watershed resilience and providing ecological and cultural restoration of the Nisenan ancestral homeland. For instance, in 2023 a northern adjacent Plumas County completed the initial phase of a North American beaver restoration project (see Figure 4) conducted by the leadership of tribal partners at the Maidu Summit Consortium and the California Department of Fish and Wildlife (CDFW, 2023). Beaver restoration is a key component in the state’s budget to mitigate the impacts of climate change, wildfires, and drought. Beavers store water on the landscape, effectively increasing groundwater recharge, summer base streamflows and their duration, and fuel moisture in wildfire season along with establishing green belts which can buffer wildfires. 
+
+**Figure 4**
+
+***Beaver Conservation Release, 2023***
+
+![beaver-conservation-release](https://github.com/lauren-alexandra/basin-inflow-lstm/assets/56773938/b737c1dc-9293-4688-b2bf-0ceb142804ab)
+
+*Note*. The California Department of Fish and Wildlife released a family of seven beavers into Plumas County, in a location that is known to the tribal community as Tásmam Koyóm.
 
 The state frequently issues executive orders to manage hydroclimate variability, but more substantial planning, practices, regulations, policies, and infrastructure are required to meet current and future water challenges. 
 
@@ -81,6 +91,8 @@ Arax, M. (2020). *The dreamt land: Chasing water and dust across California*. Vi
 Bureau of Reclamation. (n.d.). *Folsom Dam joint federal project*. https://www.usbr.gov/mp/mpr-news/docs/factsheets/folsom-dam.pdf 
 
 Bureau of Reclamation. (2021). *Water reliability in the west - 2021 SECURE Water Act report*. https://www.usbr.gov/climate/secure/docs/2021secure/2021SECUREReport.pdf
+
+California Department of Fish and Wildlife. (2023, December 13). *CDFW releases beavers into the wild for first time in nearly 75 years*. https://wildlife.ca.gov/News/Archive/cdfw-releases-beavers-into-the-wild-for-first-time-in-nearly-75-years
 
 California Heritage: Indigenous Research Project. (n.d.). *Mission: To preserve, protect and perpetuate Nisenan culture*. https://chirpca.org
 
