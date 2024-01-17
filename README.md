@@ -70,7 +70,7 @@ Over the past 80 years there has been a greater magnitude of wet extremes during
 4. Expanded floodways and seasonal wetlands can be leveraged to contend with ecosystem issues, flood events, and water supply concerns. 
 5. Agencies, particularly the State Water Board, the California Department of Water Resources, and the California Department of Fish and Wildlife (CDFW) should produce a wet-year permit management plan that directs actions in high-flow events. 
 
-Preparation for annual variability of both wetter and drier years should be thoughtfully implemented from the perspective of building long-term watershed resilience and providing ecological and cultural restoration of the Nisenan ancestral homeland. For instance, in 2023 a northern adjacent Plumas County completed the initial phase of a North American beaver restoration project (see Figure 4) conducted by the leadership of tribal partners at the Maidu Summit Consortium and the California Department of Fish and Wildlife (CDFW, 2023). Beaver restoration is a key component in the state’s budget to mitigate the impacts of climate change, wildfires, and drought. Beavers store water on the landscape, effectively increasing groundwater recharge, summer base streamflows and their duration, and fuel moisture in wildfire season along with establishing green belts which can buffer wildfires. 
+Preparation for annual variability of both wetter and drier years should be thoughtfully implemented from the perspective of building long-term watershed resilience and providing ecological and cultural restoration of the Nisenan ancestral homeland. For instance, in 2023 the northern adjacent Plumas County completed the initial phase of a North American beaver restoration project (see Figure 4) conducted by the leadership of tribal partners at the Maidu Summit Consortium and the California Department of Fish and Wildlife (CDFW, 2023). Beaver restoration is a key component in the state’s budget to mitigate the impacts of climate change, wildfires, and drought. Beavers store water on the landscape, effectively increasing groundwater recharge, summer baseflows and their duration, and fuel moisture in wildfire season along with establishing green belts which can buffer wildfires. 
 
 **Figure 4**
 
@@ -78,9 +78,9 @@ Preparation for annual variability of both wetter and drier years should be thou
 
 ![beaver-conservation-release](https://github.com/lauren-alexandra/basin-inflow-lstm/assets/56773938/b737c1dc-9293-4688-b2bf-0ceb142804ab)
 
-*Note*. The California Department of Fish and Wildlife released a family of seven beavers into Plumas County, in a location that is known to the tribal community as Tásmam Koyóm.
+*Note*. The California Department of Fish and Wildlife released a family of seven beavers into Plumas County, in a location that is known to the tribal community as Tásmam Koyóm. CDFW database. Copyright 2024 by the State of California.
 
-The state frequently issues executive orders to manage hydroclimate variability, but more substantial planning, practices, regulations, policies, and infrastructure are required to meet current and future water challenges. 
+In summary, the state frequently issues executive orders to manage hydroclimate variability, but more substantial planning, practices, regulations, policies, and infrastructure are required to meet current and future water challenges. 
 
 #### References
 
@@ -116,7 +116,9 @@ Sacramento Public Library Authority. (2021). The early years. *Images of America
 
 Sacramento Public Library Authority. (2021). The untamed river. *Images of America: Lower American River* (pp. 109-127). Arcadia Publishing.
 
-Smith, J. F. (2006). *Nature noir: A park ranger’s patrol in the Sierra*. Mariner Books. 
+Smith, J. F. (2006). *Nature noir: A park ranger’s patrol in the Sierra*. Mariner Books.
+
+State of California. (2024). *Beaver conservation release* [Photograph]. CDFW database.
 
 State of California. (2019, June 18). *Governor Newsom issues apology to Native Americans for State’s historical wrongdoings, establishes Truth and Healing Council.* https://www.gov.ca.gov/2019/06/18/governor-newsom-issues-apology-to-native-americans-for-states-historical-wrongdoings-establishes-truth-and-healing-council
 
