@@ -90,7 +90,7 @@ Arax, M. (2020). *The dreamt land: Chasing water and dust across California*. Vi
 
 Bureau of Reclamation. (n.d.). *Folsom Dam joint federal project*. https://www.usbr.gov/mp/mpr-news/docs/factsheets/folsom-dam.pdf 
 
-Bureau of Reclamation. (2021). *Water reliability in the west - 2021 SECURE Water Act report*. https://www.usbr.gov/climate/secure/docs/2021secure/2021SECUREReport.pdf
+Bureau of Reclamation. (2021). *Water reliability in the West - 2021 SECURE Water Act report*. https://www.usbr.gov/climate/secure/docs/2021secure/2021SECUREReport.pdf
 
 California Department of Fish and Wildlife. (2023, December 13). *CDFW releases beavers into the wild for first time in nearly 75 years*. https://wildlife.ca.gov/News/Archive/cdfw-releases-beavers-into-the-wild-for-first-time-in-nearly-75-years
 
@@ -100,7 +100,7 @@ East, A. E., & Grant, G. E. (2023). A watershed moment for western U.S. dams. *W
 
 Huang, X., Stevenson, S., & Hall, A. D. (2020). Future warming and intensification of precipitation extremes: A “double whammy” leading to increasing flood risk in California. *Geophysical Research Letters, 47*(16), 1-9. https://doi.org/10.1029/2020GL088679 
 
-Ingram, B. L., & Malamud-Roam, F. (2015). *The west without water: What past floods, droughts, and other climatic clues tell us about tomorrow*. University of California Press. 
+Ingram, B. L., & Malamud-Roam, F. (2015). *The West without water: What past floods, droughts, and other climatic clues tell us about tomorrow*. University of California Press. 
 
 Isenberg, A. C. (2006). *Mining California: An ecological history*. Hill and Wang.
 
@@ -120,7 +120,7 @@ Smith, J. F. (2006). *Nature noir: A park ranger’s patrol in the Sierra*. Mari
 
 State of California. (2024). *Beaver conservation release* [Photograph]. CDFW database.
 
-State of California. (2019, June 18). *Governor Newsom issues apology to Native Americans for State’s historical wrongdoings, establishes Truth and Healing Council.* https://www.gov.ca.gov/2019/06/18/governor-newsom-issues-apology-to-native-americans-for-states-historical-wrongdoings-establishes-truth-and-healing-council
+State of California. (2019, June 18). *Governor Newsom issues apology to Native Americans for state’s historical wrongdoings, establishes Truth and Healing Council.* https://www.gov.ca.gov/2019/06/18/governor-newsom-issues-apology-to-native-americans-for-states-historical-wrongdoings-establishes-truth-and-healing-council
 
 Zamora-Reyes, D., Black, B., & Trouet, V. (2021). Enhanced winter, spring, and summer hydroclimate variability across California from 1940 to 2019. *International Journal of Climatology, 42*(9). https://doi.org/10.1002/joc.7513 
 
