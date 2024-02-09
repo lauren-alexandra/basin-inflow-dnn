@@ -134,9 +134,9 @@ California Data Exchange Center: California Department of Water Resources
 - Source: California Data Exchange Center. (n.d.). *CDEC Webservice JSON and CSV*. https://cdec.water.ca.gov/dynamicapp/wsSensorData
 
 #### American River Watershed Stations
-<img width="747" alt="River Basin Stations" src="https://github.com/lauren-alexandra/weather-informed-reservoir-operation/assets/56773938/5bd98c71-6fe8-415e-a904-f72d4373ba35">
+![american-river-basin-stations](https://github.com/lauren-alexandra/basin-inflow-lstm/assets/56773938/00de5d65-eab5-4f0f-b54a-55d0a4c86484)
 
-Google. (n.d.). [River Basin Stations]. Retrieved November 26, 2023, from https://maps.app.goo.gl/5ACnKE3bT1TMQ15J8
+Google. (n.d.). [River Basin Stations]. Retrieved February 9, 2024, from https://maps.app.goo.gl/5ACnKE3bT1TMQ15J8
 
 
 Run locally
