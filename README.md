@@ -8,7 +8,9 @@ Basin Inflow LSTM is an implementation of a long short-term memory model for for
 
 Land Acknowledgement
 ----
-The land currently occupied by the Folsom Reservoir is part of the unceded territory and traditional home of the Nisenan people. In spite of centuries of genocide and occupation, the sovereign Nisenan people persist as caretakers of the Sacramento Valley. The Nevada City Rancheria was once a federally recognized reservation of the Nisenan people (Nevada City Rancheria, n.d.). By executive order (1913) President Woodrow Wilson created the rancheria from a land allotment (1887) acquired by Chief Charlie Cully. However, in 1958 Congress passed the California Rancheria Termination Act which ceased the federal recognition of 41 tribes including Nevada City Rancheria. Most rancherias have been restored, but Nevada City Rancheria is still trying to restore their federal status. Through financial and community support the California Heritage: Indigenous Research Project (CHIRP), a nonprofit organization led by the Nevada City Rancheria Tribal Council, works to mimic the federal Indigenous programs designed to support health, education, housing, and economic stability in the absence of federal recognition, while advocating for its restoration (CHIRP, n.d.). 
+The land currently occupied by the Folsom Reservoir is part of the unceded territory and traditional home of the Nisenan people. In spite of centuries of genocide and occupation, the sovereign Nisenan people persist as caretakers of the American River Basin. 
+
+The basin’s Nisenan Tribal entities include the Nevada City Rancheria, the Colfax-Todd Valley Consolidated Tribe, and the United Auburn Indian Community. The Nevada City Rancheria and the Colfax Rancheria were once both federally recognized, but Congress passed the California Rancheria Termination Act (1958) and later an amendment (1964) which ceased their federal recognition. Most rancherias have been restored, but Nevada City and Colfax are still trying to restore their federal status.
 
 
 Background
@@ -133,7 +135,7 @@ California Data Exchange Center: California Department of Water Resources
 - Window: Daily and hourly records from 01-01-2008 to 12-31-2022 
 - Source: California Data Exchange Center. (n.d.). *CDEC Webservice JSON and CSV*. https://cdec.water.ca.gov/dynamicapp/wsSensorData
 
-#### American River Watershed Stations
+#### American River Basin Stations
 ![american-river-basin-stations](https://github.com/lauren-alexandra/basin-inflow-lstm/assets/56773938/00de5d65-eab5-4f0f-b54a-55d0a4c86484)
 
 Google. (n.d.). [River Basin Stations]. Retrieved February 9, 2024, from https://maps.app.goo.gl/5ACnKE3bT1TMQ15J8
