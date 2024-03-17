@@ -10,7 +10,7 @@ Land Acknowledgement
 ----
 The land currently occupied by the Folsom Reservoir is part of the unceded territory and traditional home of the Nisenan people. In spite of centuries of genocide and occupation, the sovereign Nisenan people persist as caretakers of the American River Basin. 
 
-The basin’s Nisenan Tribal entities include the Nevada City Rancheria, the Colfax-Todd Valley Consolidated Tribe, and the United Auburn Indian Community. The Nevada City Rancheria and the Colfax Rancheria were once both federally recognized, but Congress passed the California Rancheria Termination Act (1958) and later an amendment (1964) which ceased their federal recognition. Most rancherias have been restored, but Nevada City and Colfax are still trying to restore their federal status.
+The basin’s Nisenan Tribal entities include the Nevada City Rancheria, the Colfax-Todds Valley Consolidated Tribe, and the United Auburn Indian Community. The Nevada City Rancheria and the Colfax Rancheria were once both federally recognized, but Congress passed the California Rancheria Termination Act (1958) and later an amendment (1964) which ceased their federal recognition. Most rancherias have been restored, but Nevada City and Colfax are still trying to restore their federal status.
 
 
 Background
