@@ -1,4 +1,4 @@
-Basin Inflow LSTM: Forecasting Regional Water Inflow
+Basin Inflow: Regional Hydroclimate Deep Neural Network
 =====
 
 Overview
