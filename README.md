@@ -18,7 +18,7 @@ The basin’s Nisenan Tribal entities include the Nevada City Rancheria, the Col
 
 <img width="600" height="500" alt="gerjuoy-north-fork-preserve" src="https://github.com/lauren-alexandra/basin-inflow/assets/56773938/9f08279c-70cd-4cd2-83ba-bd1944b90ec6">
 
-*Note*. From left: Colfax-Todds Valley Consolidated Tribe chairman Clyde Prout III and Placer Land Trust executive director Jeff Darlington at the Gerjuoy North Fork Preserve. Placer Land Trust transferred ownership of the preserve to the tribe in 2022. From “California Ancestral Homelands Returned to Colfax-Todds Valley Consolidated Tribe,” by K. Ferguson, 2022, https://landtrustalliance.org/blog/california-ancestral-homelands-returned-to-colfax-todds-valley-consolidated-tribe. Copyright 2024 by Land Trust Alliance.
+*Note*. From left: Colfax-Todds Valley Consolidated Tribe chairman Clyde Prout III and Placer Land Trust executive director Jeff Darlington at Yo’ Dok’im Pakan. Placer Land Trust transferred ownership of the preserve to the tribe in 2022. From “California Ancestral Homelands Returned to Colfax-Todds Valley Consolidated Tribe,” by K. Ferguson, 2022, https://landtrustalliance.org/blog/california-ancestral-homelands-returned-to-colfax-todds-valley-consolidated-tribe. Copyright 2024 by Land Trust Alliance.
 
 
 Background
@@ -112,7 +112,7 @@ Preparation for annual variability of both wetter and drier years should be thou
 
 <img width="900" height="600" alt="beaver-conservation-release" src="https://github.com/lauren-alexandra/basin-inflow-lstm/assets/56773938/b737c1dc-9293-4688-b2bf-0ceb142804ab">
 
-*Note*. The California Department of Fish and Wildlife released a family of seven beavers into Plumas County, in a location that is known to the tribal community as Tásmam Koyóm. CDFW database. Copyright 2024 by the State of California.
+*Note*. The California Department of Fish and Wildlife released a family of seven beavers into Plumas County, in the valley Tásmam Koyóm. CDFW database. Copyright 2024 by the State of California.
 
 In summary, the state frequently issues executive orders to manage hydroclimate variability, but more substantial planning, practices, regulations, policies, and infrastructure are required to meet current and future water challenges. 
 
