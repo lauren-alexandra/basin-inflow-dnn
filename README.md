@@ -28,13 +28,29 @@ The Department of Interior’s Bureau of Reclamation (BOR) employs river basin o
 
 Sacramento and surrounding municipalities exist on a floodplain. The area receives most of its water from precipitation in the Sierra Nevada during a short wet period consisting of five to six Pacific storms on average, with high year-to-year variability (Ingram & Malamud-Roam, 2015). A difference of one to two major storms can ensure a normal versus a dry water year. Water management in the state has proven challenging since its founding. This challenge was evident in the early years of the state, when in late 1861 and the beginning of 1862 unprecedented snowfall followed by a series of warm storms drenched the western Sierra Nevada with four times its annual average rainfall, swelling the American River Basin, eliminating Gold Rush mining settlements (see Figure 2), displacing communities, and submerging Sacramento under ten feet of water (Ingram & Malamud-Roam, 2015). Notably, on January 11, 1862 the *Nevada City Democrat* reported Indigenous residents left the area a week before the floods, recognizing the weather pattern of atmospheric river storms. 
 
-The extensive destruction of the 1861-1862 floods in Sacramento and across the state, led the city to pursue a project of raising the district by ten to fifteen feet shortly after the flooding. During the decade that followed, the American River’s confluence with the Sacramento River was located upstream. The Natoma Water and Mining Company carried out the construction of a dual-purpose dam about a mile and a half above Folsom on the *American* to generate hydroelectric power and capture logs drifting downstream from the Sierra (Sacramento Public Library Authority, 2021, pp. 11-38). In 1868, California agreed to grant the company with the labor of imprisoned people in exchange for acreage for what would become the state’s second-oldest prison. By 1893 Folsom Dam was finished, and in 1895 the newly built Folsom Powerhouse allowed Sacramento to emerge as one of the leading cities in the country using commercial hydroelectric power.
+**Figure 2**
+
+***Gold Rush Mining Camps on the American River, 1849***
+
+<img width="900" height="550" alt="1849-mining-camps-on-the-american-river" src="https://github.com/lauren-alexandra/basin-inflow-lstm/assets/56773938/bf99dac3-55a3-4fd7-9d85-e6d208b21871">
+
+*Note*. Many of the mining camps above Beal's Bar on the North Fork are beneath the Folsom Reservoir. Adapted from "The Early Years", by Sacramento Public Library Authority, *Images of America: Lower American River*, (pp. 11-38), 2021, Arcadia Publishing.
+
+The extensive destruction of the 1861-1862 floods in Sacramento and across the state (see Figure 3), led the city to pursue a project of raising the district by ten to fifteen feet shortly after the flooding. During the decade that followed, the American River’s confluence with the Sacramento River was located upstream. The Natoma Water and Mining Company carried out the construction of a dual-purpose dam about a mile and a half above Folsom on the *American* to generate hydroelectric power and capture logs drifting downstream from the Sierra (Sacramento Public Library Authority, 2021, pp. 11-38). In 1868, California agreed to grant the company with the labor of imprisoned people in exchange for acreage for what would become the state’s second-oldest prison. By 1893 Folsom Dam was finished, and in 1895 the newly built Folsom Powerhouse allowed Sacramento to emerge as one of the leading cities in the country using commercial hydroelectric power.
+
+**Figure 3**
+
+***Sacramento, December 1861***
+
+<img width="600" height="700" alt="1861-sacramento-flooded" src="https://github.com/lauren-alexandra/basin-inflow-lstm/assets/56773938/cf959be5-9321-44a1-94f1-2a1d73c90dca">
+
+*Note*. From "The Untamed River", by Sacramento Public Library Authority, *Images of America: Lower American River*, (pp. 109-127), 2021, Arcadia Publishing. 
 
 #### Legacy of the Gold Rush
 
-Before the discovery of gold (1848) by American and Indigenous workers in the American River and the relocation of the state capital to Sacramento (1854), approximately 15 Nisenan towns existed in contemporary Sacramento boundaries (Akins & Bauer Jr., 2021). To guard against seasonal flooding Nisenan founded towns on knolls or constructed dirt mounds. On the river banks shaded by oak and black walnut trees, roots and seeds were harvested, and waterfowl and mussels were consumed from the river (Roseville Historical Society, n.d.). Aquatic resources were well managed to secure runs of anadromous fish, including King salmon in the spring and fall, allowing fresh fish to be eaten or stored for trade. The *American* provided an ideal habitat for salmon (see Figure 2), with coarse gravel for burying eggs and clean, cold water for hatching (Isenberg, 2006). 
+Before the discovery of gold (1848) by American and Indigenous workers in the American River and the relocation of the state capital to Sacramento (1854), approximately 15 Nisenan towns existed in contemporary Sacramento boundaries (Akins & Bauer Jr., 2021). To guard against seasonal flooding Nisenan founded towns on knolls or constructed dirt mounds. On the river banks shaded by oak and black walnut trees, roots and seeds were harvested, and waterfowl and mussels were consumed from the river (Roseville Historical Society, n.d.). Aquatic resources were well managed to secure runs of anadromous fish, including King salmon in the spring and fall, allowing fresh fish to be eaten or stored for trade. The *American* provided an ideal habitat for salmon (see Figure 4), with coarse gravel for burying eggs and clean, cold water for hatching (Isenberg, 2006). 
 
-**Figure 2**
+**Figure 4**
 
 ***Watershed Spawning Range***
 
@@ -44,23 +60,17 @@ Before the discovery of gold (1848) by American and Indigenous workers in the Am
 
 In 1839, John Sutter established the New Helvetia colony in the Mexican Alta California province near the confluence of the *American* and the *Sacramento* (Akins & Bauer Jr., 2021). Sutter invited Nisenan people to work for him, exchanging food, clothing, and Hawaiian sugar. In January 1848, gold was found 50 miles upstream of Sutter’s Fort, and the siege that followed endangered both the Nisenan people and the basin. Between 1850 and 1873 California and the federal government legalized and funded the disenfranchisement, enslavement, ethnic cleansing, and genocide of Indigenous people throughout the violent colonization of the Gold Rush era, declining the state population of Indigenous people from 150,000 to 30,000 people (Akins & Bauer Jr., 2021). Nisenan were unsettled with some returning to the area after the start of the Gold Rush, relying on wage labor and traditional subsistence. In 2019, California Governor Gavin Newsom issued an apology on behalf of the state for its historical mistreatment, violence, and neglect, and established the Truth and Healing Council to provide Indigenous people a platform to correct the historical record and begin the collaborative healing process. 
 
+**Figure 5**
+
+***For All the Gold in the World***
+
+<img width="375" height="550" alt="For_All_the_Gold_in_the_World" src="https://github.com/lauren-alexandra/basin-inflow/assets/56773938/4d8071a1-33f4-4d46-aa8f-f00544cc13ad">
+
+*Note*. Brianna French. (2022). For All the Gold in the World. [Watercolor and gold leaf on clay board]. Uba Seo Gallery. Nevada City, California. Exhibited at Visibility Through Art (October 8 2022–April 15 2023).
+
 Ecological destruction coincided with the prospector invasion. Mining practices would corrode river quality, with silt clogging streams and halting annual salmon runs (Akins & Bauer Jr., 2021). Debris coated the riverbed decimating spawning grounds for millions of salmon (Isenberg, 2006). Pervasive efforts to transform the river through the shoring of levees, dredging, the separation of the river from sloughs, and years of damming, resulted in the decrease of sediment-induced turbidity that sheltered salmon from predators along with the aquatic bugs, phytoplankton, and zooplankton supporting them (Arax, 2020). By the 1870s, the California Commissioners of Fisheries reported salmon were absent from the *American* and debris from hydraulic mining had vanished half of the state’s salmon habitat (Isenberg, 2006). Moreover, by that time silt from the mines upstream made the water from the river unhealthy to drink. Hydraulic mines utilized great quantities of mercury as an amalgam in their sluices and much of it entered the river. Prior to the 1880s, the state’s legal environment gave protection to industry’s right to dispose of waste in public waterways while sanctioning easy and inexpensive access to natural resources. The technology that enabled miners to carve into the Sierra foothills destroyed its timber. The mines required wood for artificial channels and gates to regularize the flow of water, thereby ensuring the stability of gold production. Mountain reservoirs which delivered water to the mines also submerged entire forests. Of course, flooding was not restricted to the reservoirs. By clearing dense tree roots anchoring the natural levees of the river, the industry indeliberately released currents from their channels during spring floods. Lastly, the industrial control of water that emerged in the American River Basin expanded across western states going into the twentieth century. 
 
-**Figure 2**
 
-***Gold Rush Mining Camps on the American River, 1849***
-
-<img width="900" height="550" alt="1849-mining-camps-on-the-american-river" src="https://github.com/lauren-alexandra/basin-inflow-lstm/assets/56773938/bf99dac3-55a3-4fd7-9d85-e6d208b21871">
-
-*Note*. Many of the mining camps above Beal's Bar on the North Fork are beneath the Folsom Reservoir. Adapted from "The Early Years", by Sacramento Public Library Authority, *Images of America: Lower American River*, (pp. 11-38), 2021, Arcadia Publishing.
-
-**Figure 3**
-
-***Sacramento, December 1861***
-
-<img width="600" height="700" alt="1861-sacramento-flooded" src="https://github.com/lauren-alexandra/basin-inflow-lstm/assets/56773938/cf959be5-9321-44a1-94f1-2a1d73c90dca">
-
-*Note*. From "The Untamed River", by Sacramento Public Library Authority, *Images of America: Lower American River*, (pp. 109-127), 2021, Arcadia Publishing. 
 
 ### Reservoir 
 
