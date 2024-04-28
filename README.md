@@ -43,7 +43,7 @@ Ecological destruction coincided with the prospector invasion. Mining practices 
 
 ***Gold Rush Mining Camps on the American River, 1849***
 
-<img width="1167" alt="1849-mining-camps-on-the-american-river" src="https://github.com/lauren-alexandra/basin-inflow-lstm/assets/56773938/bf99dac3-55a3-4fd7-9d85-e6d208b21871">
+<img width="900" height="550" alt="1849-mining-camps-on-the-american-river" src="https://github.com/lauren-alexandra/basin-inflow-lstm/assets/56773938/bf99dac3-55a3-4fd7-9d85-e6d208b21871">
 
 *Note*. Many of the mining camps above Beal's Bar on the North Fork are beneath the Folsom Reservoir. Adapted from "The Early Years", by Sacramento Public Library Authority, *Images of America: Lower American River*, (pp. 11-38), 2021, Arcadia Publishing.
 
@@ -51,7 +51,7 @@ Ecological destruction coincided with the prospector invasion. Mining practices 
 
 ***Sacramento, December 1861***
 
-<img width="734" alt="1861-sacramento-flooded" src="https://github.com/lauren-alexandra/basin-inflow-lstm/assets/56773938/cf959be5-9321-44a1-94f1-2a1d73c90dca">
+<img width="600" height="700" alt="1861-sacramento-flooded" src="https://github.com/lauren-alexandra/basin-inflow-lstm/assets/56773938/cf959be5-9321-44a1-94f1-2a1d73c90dca">
 
 *Note*. From "The Untamed River", by Sacramento Public Library Authority, *Images of America: Lower American River*, (pp. 109-127), 2021, Arcadia Publishing. 
 
@@ -63,7 +63,7 @@ Folsom Reservoir (1956) was constructed by the U.S. Army Corps of Engineers for 
 
 ***Folsom Dam, 2023***
 
-![folsom-dam-2023](https://github.com/lauren-alexandra/basin-inflow-lstm/assets/56773938/4f7495be-8d0b-45c8-af9a-5c2836c1b160)
+<img width="900" height="600" alt="folsom-dam-2023" src="https://github.com/lauren-alexandra/basin-inflow-lstm/assets/56773938/4f7495be-8d0b-45c8-af9a-5c2836c1b160">
 
 *Note*. Picture of Folsom Dam as viewed from Beal’s Point in August 2023.
 
@@ -85,7 +85,7 @@ Preparation for annual variability of both wetter and drier years should be thou
 
 ***Beaver Conservation Release, 2023***
 
-![beaver-conservation-release](https://github.com/lauren-alexandra/basin-inflow-lstm/assets/56773938/b737c1dc-9293-4688-b2bf-0ceb142804ab)
+<img width="900" height="600" alt="beaver-conservation-release" src="https://github.com/lauren-alexandra/basin-inflow-lstm/assets/56773938/b737c1dc-9293-4688-b2bf-0ceb142804ab">
 
 *Note*. The California Department of Fish and Wildlife released a family of seven beavers into Plumas County, in a location that is known to the tribal community as Tásmam Koyóm. CDFW database. Copyright 2024 by the State of California.
 
