@@ -18,7 +18,7 @@ The basin’s Nisenan Tribal entities include the Nevada City Rancheria, the Col
 
 <img width="600" height="500" alt="gerjuoy-north-fork-preserve" src="https://github.com/lauren-alexandra/basin-inflow/assets/56773938/9f08279c-70cd-4cd2-83ba-bd1944b90ec6">
 
-*Note*. From left: Colfax-Todds Valley Consolidated Tribe chairman Clyde Prout III and Placer Land Trust executive director Jeff Darlington at the Gerjuoy North Fork Preserve which transferred ownership to the tribe in 2022. From “California Ancestral Homelands Returned to Colfax-Todds Valley Consolidated Tribe,” by K. Ferguson, 2022, https://landtrustalliance.org/blog/california-ancestral-homelands-returned-to-colfax-todds-valley-consolidated-tribe. Copyright 2024 by Land Trust Alliance.
+*Note*. From left: Colfax-Todds Valley Consolidated Tribe chairman Clyde Prout III and Placer Land Trust executive director Jeff Darlington at the Gerjuoy North Fork Preserve. Placer Land Trust transferred ownership of the preserve to the tribe in 2022. From “California Ancestral Homelands Returned to Colfax-Todds Valley Consolidated Tribe,” by K. Ferguson, 2022, https://landtrustalliance.org/blog/california-ancestral-homelands-returned-to-colfax-todds-valley-consolidated-tribe. Copyright 2024 by Land Trust Alliance.
 
 Background
 ----
