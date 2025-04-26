@@ -1,5 +1,6 @@
-Basin Inflow: Regional Hydroclimate Deep Neural Network
-=====
+# Basin Inflow: Regional Hydroclimate Deep Neural Network
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14996573.svg)](https://doi.org/10.5281/zenodo.15288047)
 
 Overview
 ----
